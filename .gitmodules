@@ -1,3 +1,0 @@
-[submodule "Flash-App/libs/volley"]
-  path = Flash-App/libs/volley
-  url = https://android.googlesource.com/platform/frameworks/volley.git
